@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 60,
+    "left": 0,
+    "width": 1410,
+    "height": 1880,
+    "isRotated": true,
+    "originalWidth": 1410,
+    "originalHeight": 2000
+  },
+  "imagePath": "image-targets/pj5_luminance.png",
+  "metadata": null,
+  "name": "pj5",
+  "resources": {
+    "originalImage": "pj5_original.png",
+    "croppedImage": "pj5_cropped.png",
+    "thumbnailImage": "pj5_thumbnail.png",
+    "luminanceImage": "pj5_luminance.png"
+  },
+  "created": 1793843470099,
+  "updated": 1793843470099
+}

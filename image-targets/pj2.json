@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 60,
+    "left": 0,
+    "width": 1410,
+    "height": 1880,
+    "isRotated": true,
+    "originalWidth": 1410,
+    "originalHeight": 2000
+  },
+  "imagePath": "image-targets/pj2_luminance.png",
+  "metadata": null,
+  "name": "pj2",
+  "resources": {
+    "originalImage": "pj2_original.png",
+    "croppedImage": "pj2_cropped.png",
+    "thumbnailImage": "pj2_thumbnail.png",
+    "luminanceImage": "pj2_luminance.png"
+  },
+  "created": 1793842716294,
+  "updated": 1793842716294
+}
