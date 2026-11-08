@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 95,
+    "left": 0,
+    "width": 2022,
+    "height": 2696,
+    "isRotated": true,
+    "originalWidth": 2022,
+    "originalHeight": 2887
+  },
+  "imagePath": "image-targets/pj9_luminance.jpg",
+  "metadata": null,
+  "name": "pj9",
+  "resources": {
+    "originalImage": "pj9_original.jpg",
+    "croppedImage": "pj9_cropped.jpg",
+    "thumbnailImage": "pj9_thumbnail.jpg",
+    "luminanceImage": "pj9_luminance.jpg"
+  },
+  "created": 1793981976932,
+  "updated": 1793981976932
+}

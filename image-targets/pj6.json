@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 60,
+    "left": 0,
+    "width": 1410,
+    "height": 1880,
+    "isRotated": true,
+    "originalWidth": 1410,
+    "originalHeight": 2000
+  },
+  "imagePath": "image-targets/pj6_luminance.jpg",
+  "metadata": null,
+  "name": "pj6",
+  "resources": {
+    "originalImage": "pj6_original.jpg",
+    "croppedImage": "pj6_cropped.jpg",
+    "thumbnailImage": "pj6_thumbnail.jpg",
+    "luminanceImage": "pj6_luminance.jpg"
+  },
+  "created": 1793981641204,
+  "updated": 1793981641204
+}

@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 60,
+    "left": 0,
+    "width": 1410,
+    "height": 1880,
+    "isRotated": true,
+    "originalWidth": 1410,
+    "originalHeight": 2000
+  },
+  "imagePath": "image-targets/pj10_luminance.jpg",
+  "metadata": null,
+  "name": "pj10",
+  "resources": {
+    "originalImage": "pj10_original.jpg",
+    "croppedImage": "pj10_cropped.jpg",
+    "thumbnailImage": "pj10_thumbnail.jpg",
+    "luminanceImage": "pj10_luminance.jpg"
+  },
+  "created": 1793981812140,
+  "updated": 1793981812140
+}
